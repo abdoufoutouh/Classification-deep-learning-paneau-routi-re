@@ -407,7 +407,7 @@ This project was made possible by:
 
 For questions, suggestions, or collaborations:
 
-- **Project Maintainer**: [Abderrahmane Foutouh ]
+- **Project Maintainer**: Abderrahmane Foutouh 
 - **Email**: [foutouhabderrahman8@gmail.com]
 - **GitHub**: [https://github.com/abdoufoutouh]
 - **LinkedIn**: [https://www.linkedin.com/in/foutouh-abderrahmane-537447305/]
