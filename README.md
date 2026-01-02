@@ -407,8 +407,8 @@ This project was made possible by:
 
 For questions, suggestions, or collaborations:
 
-- **Project Maintainer**: [Your Name]
-- **Email**: [your.email@example.com]
+- **Project Maintainer**: [Abderrahmane Foutouh ]
+- **Email**: [foutouhabderrahman8@gmail.com]
 - **GitHub**: [@yourusername](https://github.com/yourusername)
 - **LinkedIn**: [Your LinkedIn Profile]
 
